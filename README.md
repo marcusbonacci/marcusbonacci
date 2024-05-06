@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋, I am Marcus Bonacci!
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCKAXEfNMqsdsqkkNuv5cHSA?style=flat&label=My%20Youtube%20channel)
+
 
 <!--
 **marcusbonacci/marcusbonacci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
