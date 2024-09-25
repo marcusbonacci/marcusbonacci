@@ -1,6 +1,7 @@
 ### 👋 Marcus Bonacci!
 ---
 
+<!--
 I'm a hobbyist developer who is challenging himself to do cool things. Not much is here yet, but I'll work on it.
 
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCKAXEfNMqsdsqkkNuv5cHSA?style=flat&label=My%20Youtube%20channel)
@@ -24,6 +25,7 @@ What I've done:
 - Distributed Systems with minecraft
   - Summary: Created a docker network and containerized Minecraft with a proxy. Created a Java/Kotlin program to push data from servers to InfluxDB, and monitor it with Grafana.
   - Future improvements: Push to Kubernetes and create a service to scale the network automatically. Maybe setup a docker level monitoring solution?
+-- >
 
 <!--
 **marcusbonacci/marcusbonacci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
